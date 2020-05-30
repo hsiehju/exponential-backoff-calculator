@@ -1,3 +1,7 @@
+## Exponential backoff calculator w/ create react app
+
+Check it out here: https://exponentialbackoffcalculator.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
